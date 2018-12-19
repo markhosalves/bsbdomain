@@ -1,0 +1,10 @@
+{
+  "name": "bsbdomain",
+  "description": "Minimal router and client",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "devDependencies": {}
+}
